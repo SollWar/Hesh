@@ -1,0 +1,6 @@
+C:\Users\Sollw\source\repos\Hesh\bin\Debug\Hesh.exe.config
+C:\Users\Sollw\source\repos\Hesh\bin\Debug\Hesh.exe
+C:\Users\Sollw\source\repos\Hesh\bin\Debug\Hesh.pdb
+C:\Users\Sollw\source\repos\Hesh\obj\Debug\Hesh.csprojAssemblyReference.cache
+C:\Users\Sollw\source\repos\Hesh\obj\Debug\Hesh.exe
+C:\Users\Sollw\source\repos\Hesh\obj\Debug\Hesh.pdb
